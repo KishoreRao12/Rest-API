@@ -1,0 +1,16 @@
+blinker==1.8.2
+click==8.1.7
+cmake==3.29.2
+colorama==0.4.6
+dlib @ file:///C:/Users/kisho/Downloads/Dlib_Windows_Python3.x-main/Dlib_Windows_Python3.x-main/dlib-19.24.1-cp311-cp311-win_amd64.whl#sha256=6f1a5ee167975d7952b28e0ce4495f1d9a77644761cf5720fb66d7c6188ae496
+Flask==3.0.3
+gunicorn==22.0.0
+imutils==0.5.4
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+numpy==1.26.4
+opencv-python==4.9.0.80
+packaging==24.1
+scipy==1.13.0
+Werkzeug==3.0.3
